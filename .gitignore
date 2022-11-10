@@ -1,8 +1,8 @@
 node_modules
 package-lock.json
-composer.lock
 src
 vendor
 gulpfile.js
 package.json
 .env
+.DS_Store
