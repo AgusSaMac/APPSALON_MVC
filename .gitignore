@@ -6,3 +6,4 @@ gulpfile.js
 package.json
 .env
 .DS_Store
+appsalon_mvc.sql
